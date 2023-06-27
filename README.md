@@ -7,8 +7,8 @@ pip install -r requirements.txt
 
 ## Predict with Cell Segger
 ### To see help message
-python cells-instance-segmentation-production/predict.py -h
+$ python cells-instance-segmentation-production/predict.py -h
 
 ### Predict
-python cells-instance-segmentation-production/predict.py -image image.png -dest output_dir
+$ python cells-instance-segmentation-production/predict.py -image image.png -dest output_dir
 
